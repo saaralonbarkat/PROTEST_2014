@@ -1,5 +1,5 @@
 # PROTEST_2014
-Replication materials for the papers: 
+This repository contains replication materials for the papers: 
 
 Gilad, Sharon, Saar Alon-Barkat, and Alexandr Braverman. 2016. “Large-Scale Social Protest: A Business Risk and a Bureaucratic Opportunity”. Governance 29(3): 371-392. DOI: 10.1111/gove.12173.
 
